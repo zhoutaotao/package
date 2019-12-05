@@ -7,3 +7,4 @@
 
 #验证
 * validator : https://gopkg.in/go-playground/validator.v9
+* 语言包 : https://github.com/go-playground/locales
