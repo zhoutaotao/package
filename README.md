@@ -8,3 +8,6 @@
 #验证
 * validator : https://gopkg.in/go-playground/validator.v9
 * 语言包 : https://github.com/go-playground/locales
+
+#测试框架
+* convey : https://github.com/smartystreets/goconvey
