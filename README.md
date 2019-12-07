@@ -11,3 +11,6 @@
 
 #测试框架
 * convey : https://github.com/smartystreets/goconvey
+
+#生成唯一ID
+* ksuid : https://github.com/segmentio/ksuid
