@@ -17,3 +17,6 @@
 
 redis :
 * redsync 分布式锁 : https://github.com/go-redsync/redsync
+
+json :
+* github.com/json-iterator/go
